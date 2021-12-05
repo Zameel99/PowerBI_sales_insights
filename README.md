@@ -1,2 +1,2 @@
 # Powerbi_sales_insights
-![Screenshot (137)](https://user-images.githubusercontent.com/74492000/144734662-0448ec2a-6ce8-44a4-9ee9-a51ee9fad8c5.png)
+![Screenshot (138)](https://user-images.githubusercontent.com/74492000/144734687-17706970-9c49-4fa9-bf2a-6035cd4e3c87.png)
